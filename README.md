@@ -7,6 +7,11 @@ Este é o nosso projeto apresentado durante o evento do Climathon de São Paulo,
 --------------------------------------------------------------
 A proposta deste projeto é estabelecer uma conexão por meio de um aplicativo entre médias e pequenas empresas de reciclagem, abrangendo tanto o mercado business-to-business (B2B) quanto o business-to-consumer (B2C). Essa integração é realizada através de um algoritmo inteligente baseado em aprendizado de máquina, visando promover a sustentabilidade e otimizar as operações de reciclagem.
 
+
+<div class="image-container">
+  <img src="image/climathon.png" alt="img1">
+</div>
+
 ## Imagens do Projeto
 
 Aqui estão algumas imagens do nosso projeto:
